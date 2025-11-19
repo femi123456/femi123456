@@ -1,5 +1,9 @@
 name: GitHub Snake Game
 
+# .github/workflows/snake.yml
+permissions:
+  contents: write
+
 
 
 on:
@@ -95,3 +99,4 @@ jobs:
           # Optionally, you can set a custom commit message
 
           commit_message: "Update snake animation [skip ci]"
+

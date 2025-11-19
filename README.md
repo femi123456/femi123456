@@ -1,7 +1,18 @@
-# 💫 About Me:
-## 👋 About Me  <br>I'm a software developer and a computer science major.  <br>I enjoy building web applications and improving my skills through real projects.  <br><br>### 💡 What I Do  <br>- Frontend: HTML, CSS, JavaScript, TailwindCSS, React  <br>- Backend: Node.js, MongoDB  <br>- Tools: Postman  <br><br>### 🎯 Goals  <br>I'm always looking to learn more, collaborate with others, and share ideas that help us grow as developers.<br>
+Hi, I'm **Femi** 👋
 
+I'm a **software developer** and a **Computer Science major** with experience in building clean and functional web applications. I enjoy learning, improving my skills, and collaborating with others.
 
+### Tech Stack
+- HTML, CSS, JavaScript  
+- Tailwind CSS, React  
+- Node.js, MongoDB  
+- Postman, Git, GitHub  
+
+### What I'm Currently Doing
+- Improving my full-stack development skills  
+- Working on personal projects  
+- Open to collaboration.
+  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/not.femi/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akinpeluoluwafemidavid@gmail.com) 
 

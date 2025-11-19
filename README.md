@@ -22,3 +22,4 @@
 [![](https://visitcount.itsvg.in/api?id=femi123456&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![snake gif](https://github.com/femi123456/femi123456/blob/output/github-snake-dark.svg)
